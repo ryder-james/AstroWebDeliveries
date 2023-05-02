@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 542d61534ffa3fd4e82bb46289c551ed, type: 3}
+  m_Name: LandSprites
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 91745670, guid: 02c15f624564a26409b1dd4cfa6d1477, type: 3}
+  - {fileID: 1555404362, guid: 02c15f624564a26409b1dd4cfa6d1477, type: 3}
